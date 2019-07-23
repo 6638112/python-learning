@@ -1,0 +1,931 @@
+{
+  "nodes": [
+    {
+      "name": "华泰证券股份有限公司做市专用证券账户",
+      "logo": "https://img.tianyancha.com/logo/lll/c9f71c13876b9bd147d02554b51c910c.png@!t07",
+      "id": "2349143049",
+      "label": "华泰证券股份有限公司做市专用证券账户\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "宋志诚",
+      "logo": "",
+      "id": "1890036903",
+      "category": 9,
+      "type": "Human",
+      "value": "监事"
+    },
+    {
+      "name": "肖慧杰",
+      "logo": "",
+      "id": "2121675370",
+      "category": 9,
+      "type": "Human",
+      "value": "监事"
+    },
+    {
+      "name": "王世忱",
+      "logo": "",
+      "id": "2064383264",
+      "category": 10,
+      "type": "Human",
+      "value": "参股"
+    },
+    {
+      "name": "卢水生",
+      "logo": "",
+      "id": "1827266986",
+      "category": 5,
+      "type": "Human",
+      "value": "董事兼副总经理"
+    },
+    {
+      "name": "辽宁中科天道新能源装备工业有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/b7507fd9110dd9e5777f22c872e62007.png@!t07",
+      "id": "529260267",
+      "label": "辽宁中科天道新能源装备工业有限公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "王中",
+      "logo": "",
+      "id": "2064520042",
+      "category": 4,
+      "type": "Human",
+      "value": "法人"
+    },
+    {
+      "name": "薛楠",
+      "logo": "",
+      "id": "2159090984",
+      "category": 13,
+      "type": "Human",
+      "value": "副董事长"
+    },
+    {
+      "name": "郭小军",
+      "logo": "",
+      "id": "2224555609",
+      "category": 12,
+      "type": "Human",
+      "value": "经理"
+    },
+    {
+      "name": "宋磊",
+      "logo": "",
+      "id": "1891252327",
+      "category": 3,
+      "type": "Human",
+      "value": "执行董事"
+    },
+    {
+      "name": "珠海港昇新能源股份有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/8ab29aae9b73f864abc443e38c48f6f0.png@!t07",
+      "id": "608447420",
+      "label": "珠海港昇新能源股份有限公司\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "程海民",
+      "logo": "",
+      "id": "2099970654",
+      "category": 11,
+      "type": "Human",
+      "value": "董事"
+    },
+    {
+      "name": "时启峰",
+      "logo": "",
+      "id": "1958446019",
+      "category": 2,
+      "type": "Human",
+      "value": "董事长,未知"
+    },
+    {
+      "name": "陈虹",
+      "logo": "",
+      "id": "2258205584",
+      "category": 6,
+      "type": "Human",
+      "value": "监事会主席"
+    },
+    {
+      "name": "宋磊",
+      "logo": "",
+      "id": "1891252327",
+      "category": 3,
+      "type": "Human",
+      "value": "执行董事"
+    },
+    {
+      "name": "东电茂霖风能发展有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/8129040b5a49ed7fd1b193ad0f70e72d.png@!t07",
+      "id": "237195679",
+      "label": "东电茂霖风能发展有限公司\n（主要）",
+      "category": 1,
+      "type": "Company",
+      "value": "分支机构"
+    },
+    {
+      "name": "内蒙古辉腾锡勒风电机组测试有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/81babec0731c147e72bc3552f715d2b1.png@!t07",
+      "id": "769767804",
+      "label": "内蒙古辉腾锡勒风电机组测试有限公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "刘明宇",
+      "logo": "",
+      "id": "1812357845",
+      "category": 4,
+      "type": "Human",
+      "value": "法人"
+    },
+    {
+      "name": "赵立国",
+      "logo": "",
+      "id": "2194786002",
+      "category": 9,
+      "type": "Human",
+      "value": "监事"
+    },
+    {
+      "name": "中科天道新能源有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/3dd2fe3209a64f2afebbec8ce90bfc0d.png@!t07",
+      "id": "757228163",
+      "label": "中科天道新能源有限公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "新安县卫军搬运装卸服务有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/7ba9d5bf471efc3615018a3b5f8d366e.png@!t07",
+      "id": "2325173406",
+      "label": "新安县卫军搬运装卸服务有限公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "李军",
+      "logo": "",
+      "id": "2344096941",
+      "category": 3,
+      "type": "Human",
+      "value": "执行董事"
+    },
+    {
+      "name": "伦玉升",
+      "logo": "",
+      "id": "1777959931",
+      "category": 8,
+      "type": "Human",
+      "value": "职工监事"
+    },
+    {
+      "name": "李晓红",
+      "logo": "",
+      "id": "1985786981",
+      "category": 9,
+      "type": "Human",
+      "value": "监事"
+    },
+    {
+      "name": "曲道奎",
+      "logo": "https://img.tianyancha.com/logo/human/2/aa81e088a73d044720a043f30235d3f1.png@!t07",
+      "id": "1963714502",
+      "category": 4,
+      "type": "Human",
+      "value": "法人"
+    },
+    {
+      "name": "沈阳新松机器人自动化股份有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/51c6650439782697fe11ab2b4692a32c.png@!t07",
+      "id": "8314390",
+      "label": "沈阳新松机器人自动化股份有限公司\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "姚晖",
+      "logo": "",
+      "id": "1870995718",
+      "category": 7,
+      "type": "Human",
+      "value": "副总经理"
+    },
+    {
+      "name": "胡炳德",
+      "logo": "",
+      "id": "2127467943",
+      "category": 11,
+      "type": "Human",
+      "value": "董事"
+    },
+    {
+      "name": "沈阳众联投资有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/520cf17df0ebfae63e1de0c5cc9a4fb5.png@!t07",
+      "id": "681175684",
+      "label": "沈阳众联投资有限公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "新安县西平装卸搬运服务有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/5480d6ab072a5d0a68f9556febaca4d7.png@!t07",
+      "id": "2342170095",
+      "label": "新安县西平装卸搬运服务有限公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "珠海汇达丰电力发展（集团）有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/623f4163c8684fe048e77e0510bbb77c.png@!t07",
+      "id": "386581285",
+      "label": "珠海汇达丰电力发展（集团）有限公司\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "东电茂霖风能发展有限公司克旗第一分公司",
+      "logo": "https://img.tianyancha.com/logo/lll/8fd386dfd11a52772f631b1a0edd3235.png@!t07",
+      "id": "721441552",
+      "label": "东电茂霖风能发展有限公司克旗第一分公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "珠海经济特区电力开发集团有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/28a76d460ad20c31b4e56e3b5f401e73.png@!t07",
+      "id": "608449085",
+      "label": "珠海经济特区电力开发集团有限公司\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "赤峰港昇新能源有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/0593b5a43a46009bf82a5f00749bb890.png@!t07",
+      "id": "2861398914",
+      "label": "赤峰港昇新能源有限公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "沈阳港昇新能源有限公司克什克腾旗分公司",
+      "logo": "https://img.tianyancha.com/logo/lll/4ab916d7d3db2e1b9238d7a76986f8e3.png@!t07",
+      "id": "3210839891",
+      "label": "沈阳港昇新能源有限公司克什克腾旗分公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "万本华",
+      "logo": "",
+      "id": "1758316877",
+      "category": 3,
+      "type": "Human",
+      "value": "执行董事"
+    },
+    {
+      "name": "东电茂霖风能发展有限公司克旗第二分公司",
+      "logo": "https://img.tianyancha.com/logo/lll/e605f87a62f2a598cf288d068cc4ec94.png@!t07",
+      "id": "237196856",
+      "label": "东电茂霖风能发展有限公司克旗第二分公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "沈阳港昇新能源有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/a511e9aa95d5bd0248094321788db832.png@!t07",
+      "id": "2358467020",
+      "label": "沈阳港昇新能源有限公司\n（主要）",
+      "category": 1,
+      "type": "Company",
+      "value": "分支机构"
+    },
+    {
+      "name": "李若昭",
+      "logo": "",
+      "id": "2364601375",
+      "category": 9,
+      "type": "Human",
+      "value": "监事"
+    },
+    {
+      "name": "中山证券有限责任公司做市专用证券账户",
+      "logo": "https://img.tianyancha.com/logo/lll/b3b1dc06a2132abb5a32c51ca4d2484c.png@!t07",
+      "id": "3022413658",
+      "label": "中山证券有限责任公司做市专用证券账户\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "安信证券股份有限公司做市专用证券账户",
+      "logo": "https://img.tianyancha.com/logo/lll/401718c9236a42336530228426c0b2e8.png@!t07",
+      "id": "3153316968",
+      "label": "安信证券股份有限公司做市专用证券账户\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "沈阳中科天道新能源装备股份有限公司",
+      "logo": "https://img.tianyancha.com/logo/lll/4d646b20826bffdb689cb34540bd99db.png@!t07",
+      "id": "529260758",
+      "label": "沈阳中科天道新能源装备股份有限公司\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "北京惠诚寰宇投资管理中心（有限合伙）",
+      "logo": "https://img.tianyancha.com/logo/lll/1a03ac40cc2e33263d2554da57b4b54b.png@!t07",
+      "id": "2358917969",
+      "label": "北京惠诚寰宇投资管理中心（有限合伙）\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "非发起人",
+      "logo": "",
+      "id": "2265951141",
+      "category": 10,
+      "type": "Human",
+      "value": "参股"
+    },
+    {
+      "name": "珠海领先互联高新技术产业投资中心（有限合伙）",
+      "logo": "https://img.tianyancha.com/logo/lll/709c42469c7bd2b875de0967b4b11a0b.png@!t07",
+      "id": "1139036555",
+      "label": "珠海领先互联高新技术产业投资中心（有限合伙）\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    },
+    {
+      "name": "罗盾",
+      "logo": "",
+      "id": "2114125925",
+      "category": 11,
+      "type": "Human",
+      "value": "董事"
+    },
+    {
+      "name": "申万宏源证券有限公司做市专用证券账户",
+      "logo": "https://img.tianyancha.com/logo/lll/0645b3140afcef961b6c67e147153d02.png@!t07",
+      "id": "3022674682",
+      "label": "申万宏源证券有限公司做市专用证券账户\n（主要）",
+      "category": 10,
+      "type": "Company",
+      "value": "参股"
+    }
+  ],
+  "legend": [
+    "公司",
+    "分支机构",
+    "董事长,未知",
+    "执行董事",
+    "法人",
+    "董事兼副总经理",
+    "监事会主席",
+    "副总经理",
+    "职工监事",
+    "监事",
+    "参股",
+    "董事",
+    "经理",
+    "副董事长"
+  ],
+  "links": [
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "1963714502",
+      "target": "8314390"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "2344096941",
+      "target": "2342170095"
+    },
+    {
+      "name": "负责人",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "237196856"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1958446019",
+      "target": "608449085"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "8314390",
+      "target": "529260758"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1963714502",
+      "target": "8314390"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "608447420",
+      "target": "237195679"
+    },
+    {
+      "name": "执行董事",
+      "weight": 1,
+      "source": "2344096941",
+      "target": "2325173406"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "237195679",
+      "target": "2358467020"
+    },
+    {
+      "name": "分支机构",
+      "weight": 1,
+      "source": "237195679",
+      "target": "237196856"
+    },
+    {
+      "name": "副总经理",
+      "weight": 1,
+      "source": "1870995718",
+      "target": "608449085"
+    },
+    {
+      "name": "执行董事",
+      "weight": 1,
+      "source": "1758316877",
+      "target": "237195679"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "1963714502",
+      "target": "529260267"
+    },
+    {
+      "name": "执行董事",
+      "weight": 1,
+      "source": "1758316877",
+      "target": "769767804"
+    },
+    {
+      "name": "董事兼副总经理",
+      "weight": 1,
+      "source": "1827266986",
+      "target": "608449085"
+    },
+    {
+      "name": "董事长兼总经理",
+      "weight": 1,
+      "source": "1958446019",
+      "target": "608449085"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "3022674682",
+      "target": "608447420"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "757228163"
+    },
+    {
+      "name": "董事长",
+      "weight": 1,
+      "source": "2064520042",
+      "target": "757228163"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "2861398914"
+    },
+    {
+      "name": "经理",
+      "weight": 1,
+      "source": "2224555609",
+      "target": "2861398914"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "3153316968",
+      "target": "608447420"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "2121675370",
+      "target": "529260758"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "681175684"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "2344096941",
+      "target": "2325173406"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "721441552"
+    },
+    {
+      "name": "执行董事",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "2861398914"
+    },
+    {
+      "name": "执行董事",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "2358467020"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "2344096941",
+      "target": "2325173406"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "237196856"
+    },
+    {
+      "name": "经理",
+      "weight": 1,
+      "source": "2224555609",
+      "target": "2358467020"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "2364601375",
+      "target": "2358467020"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "1890036903",
+      "target": "529260758"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "2127467943",
+      "target": "529260758"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1758316877",
+      "target": "237195679"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "2064383264",
+      "target": "529260758"
+    },
+    {
+      "name": "董事长",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "529260758"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "2194786002",
+      "target": "529260758"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "529260758"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "2064520042",
+      "target": "529260758"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "529260758",
+      "target": "529260267"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "2064383264",
+      "target": "529260758"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "608449085",
+      "target": "608447420"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "237195679",
+      "target": "529260758"
+    },
+    {
+      "name": "经理",
+      "weight": 1,
+      "source": "2064520042",
+      "target": "529260267"
+    },
+    {
+      "name": "董事长",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "529260267"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "1890036903",
+      "target": "529260267"
+    },
+    {
+      "name": "分支机构",
+      "weight": 1,
+      "source": "2358467020",
+      "target": "3210839891"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "2127467943",
+      "target": "529260267"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1758316877",
+      "target": "769767804"
+    },
+    {
+      "name": "董事长,未知",
+      "weight": 1,
+      "source": "1958446019",
+      "target": "608447420"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "2114125925",
+      "target": "608447420"
+    },
+    {
+      "name": "董事兼总经理",
+      "weight": 1,
+      "source": "1827266986",
+      "target": "608447420"
+    },
+    {
+      "name": "副董事长",
+      "weight": 1,
+      "source": "2159090984",
+      "target": "608447420"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "1985786981",
+      "target": "608447420"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "2099970654",
+      "target": "608447420"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "1870995718",
+      "target": "608447420"
+    },
+    {
+      "name": "职工监事",
+      "weight": 1,
+      "source": "1777959931",
+      "target": "608447420"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "2064520042",
+      "target": "529260758"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "608447420",
+      "target": "769767804"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "529260758"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "529260758"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "1139036555",
+      "target": "608447420"
+    },
+    {
+      "name": "经理",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "237195679"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "2344096941",
+      "target": "237195679"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "2258205584",
+      "target": "608449085"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1812357845",
+      "target": "529260267"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "2358917969",
+      "target": "608447420"
+    },
+    {
+      "name": "董事兼总经理",
+      "weight": 1,
+      "source": "1963714502",
+      "target": "8314390"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "2121675370",
+      "target": "529260267"
+    },
+    {
+      "name": "监事",
+      "weight": 1,
+      "source": "2194786002",
+      "target": "529260267"
+    },
+    {
+      "name": "董事兼经理",
+      "weight": 1,
+      "source": "1963714502",
+      "target": "529260758"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "2358467020"
+    },
+    {
+      "name": "董事",
+      "weight": 1,
+      "source": "1758316877",
+      "target": "608447420"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "608447420",
+      "target": "2861398914"
+    },
+    {
+      "name": "负责人",
+      "weight": 1,
+      "source": "1891252327",
+      "target": "721441552"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "3022413658",
+      "target": "608447420"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "2349143049",
+      "target": "608447420"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "529260758",
+      "target": "757228163"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "2064520042",
+      "target": "757228163"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "386581285",
+      "target": "608447420"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "1958446019",
+      "target": "608447420"
+    },
+    {
+      "name": "监事会主席",
+      "weight": 1,
+      "source": "2258205584",
+      "target": "608447420"
+    },
+    {
+      "name": "参股",
+      "weight": 1,
+      "source": "2265951141",
+      "target": "608447420"
+    },
+    {
+      "name": "分支机构",
+      "weight": 1,
+      "source": "237195679",
+      "target": "721441552"
+    }
+  ]
+}

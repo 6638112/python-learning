@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "name": "中铁三局集团播明桥梁工厂赤大白地方铁路大板制梁场",
+      "logo": "https://img.tianyancha.com/logo/lll/49c9f823c4efa12fd0fad53e55b12f78.png@!t07",
+      "id": "687609557",
+      "label": "中铁三局集团播明桥梁工厂赤大白地方铁路大板制梁场\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    },
+    {
+      "name": "罗伟",
+      "logo": "",
+      "id": "2111224249",
+      "category": 1,
+      "type": "Human",
+      "value": "负责人"
+    },
+    {
+      "name": "中铁丰桥桥梁有限公司天津构件分公司",
+      "logo": "https://img.tianyancha.com/logo/lll/eb4a1b57496cbfc58b55d50765136078.png@!t07",
+      "id": "339204064",
+      "label": "中铁丰桥桥梁有限公司天津构件分公司\n（主要）",
+      "category": 0,
+      "type": "Company",
+      "value": ""
+    }
+  ],
+  "legend": [
+    "公司",
+    "负责人"
+  ],
+  "links": [
+    {
+      "name": "负责人",
+      "weight": 1,
+      "source": "2111224249",
+      "target": "687609557"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "2111224249",
+      "target": "687609557"
+    },
+    {
+      "name": "法人",
+      "weight": 1,
+      "source": "2111224249",
+      "target": "339204064"
+    }
+  ]
+}

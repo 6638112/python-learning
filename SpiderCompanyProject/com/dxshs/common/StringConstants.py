@@ -1,0 +1,2 @@
+#分隔符
+SEPARATION_CHARACTER = '|'

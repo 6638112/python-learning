@@ -1,0 +1,159 @@
+{
+    "hhht":[
+        {
+            "country_name":"市辖区",
+            "country_code":150101
+        },{
+            "country_name":"新城区",
+            "country_code":150102
+        },{
+            "country_name":"回民区",
+            "country_code":150103
+        },{
+            "country_name":"玉泉区",
+            "country_code":150104
+        },{
+            "country_name":"赛罕区",
+            "country_code":150105
+        },{
+            "country_name":"土默特左旗",
+            "country_code":150121
+        },{
+            "country_name":"托克托县",
+            "country_code":150122
+        },{
+            "country_name":"和林格尔县",
+            "country_code":150123
+        },{
+            "country_name":"清水河县",
+            "country_code":150124
+        },{
+            "country_name":"武川县",
+            "country_code":150125
+        },{
+            "country_name":"呼和浩特金海工业园区",
+            "country_code":150171
+        },{
+            "country_name":"呼和浩特经济技术开发区",
+            "country_code":150172
+        }
+    ],
+    "baotou":[
+        {"country_name": "市辖区", "country_code": "150201"},
+        {"country_name": "东河区", "country_code": "150202"},
+        {"country_name": "昆都仑区", "country_code": "150203"},
+        {"country_name": "青山区", "country_code": "150204"},
+        {"country_name": "石拐区", "country_code": "150205"},
+        {"country_name": "白云鄂博矿区", "country_code": "150206"},
+        {"country_name": "九原区", "country_code": "150207"},
+        {"country_name": "土默特右旗", "country_code": "150221"},
+        {"country_name": "固阳县", "country_code": "150222"},
+        {"country_name": "达尔罕茂明安联合旗", "country_code": "150223"},
+        {"country_name": "包头稀土高新技术产业开发区", "country_code": "150271"}
+    ],"wuhai":[
+        {"country_name": "市辖区", "country_code": "150301"},
+        {"country_name": "海勃湾区", "country_code": "150302"},
+        {"country_name": "海南区", "country_code": "150303"},
+        {"country_name": "乌达区", "country_code": "150304"}
+    ],"chifeng":[
+        {"country_name":"市辖区", "country_code":"150401"},
+        {"country_name":"红山区", "country_code":"150402"},
+        {"country_name":"元宝山区", "country_code":"150403"},
+        {"country_name":"松山区", "country_code":"150404"},
+        {"country_name":"阿鲁科尔沁旗", "country_code":"150421"},
+        {"country_name":"巴林左旗", "country_code":"150422"},
+        {"country_name":"巴林右旗", "country_code":"150423"},
+        {"country_name":"林西县", "country_code":"150424"},
+        {"country_name":"克什克腾旗", "country_code":"150425"},
+        {"country_name":"翁牛特旗", "country_code":"150426"},
+        {"country_name":"喀喇沁旗", "country_code":"150428"},
+        {"country_name":"宁城县", "country_code":"150429"},
+        {"country_name":"敖汉旗", "country_code":"150430"}
+    ],"tongliao":[
+        {"country_name":"市辖区", "country_code":"150501"},
+        {"country_name":"科尔沁区", "country_code":"150502"},
+        {"country_name":"科尔沁左翼中旗", "country_code":"150521"},
+        {"country_name":"科尔沁左翼后旗", "country_code":"150522"},
+        {"country_name":"开鲁县", "country_code":"150523"},
+        {"country_name":"库伦旗", "country_code":"150524"},
+        {"country_name":"奈曼旗", "country_code":"150525"},
+        {"country_name":"扎鲁特旗", "country_code":"150526"},
+        {"country_name":"通辽经济技术开发区", "country_code":"150571"},
+        {"country_name":"霍林郭勒市", "country_code":"150581"}
+    ],"eeds":[
+        {"country_name":"市辖区", "country_code":"150601"},
+        {"country_name":"东胜区", "country_code":"150602"},
+        {"country_name":"康巴什区", "country_code":"150603"},
+        {"country_name":"达拉特旗", "country_code":"150621"},
+        {"country_name":"准格尔旗", "country_code":"150622"},
+        {"country_name":"鄂托克前旗", "country_code":"150623"},
+        {"country_name":"鄂托克旗", "country_code":"150624"},
+        {"country_name":"杭锦旗", "country_code":"150625"},
+        {"country_name":"乌审旗", "country_code":"150626"},
+        {"country_name":"伊金霍洛旗", "country_code":"150627"}
+    ],"hlbe":[
+        {"country_name":"市辖区", "country_code":"150701"},
+        {"country_name":"海拉尔区", "country_code":"150702"},
+        {"country_name":"扎赉诺尔区", "country_code":"150703"},
+        {"country_name":"阿荣旗", "country_code":"150721"},
+        {"country_name":"莫力达瓦达斡尔族自治旗", "country_code":"150722"},
+        {"country_name":"鄂伦春自治旗", "country_code":"150723"},
+        {"country_name":"鄂温克族自治旗", "country_code":"150724"},
+        {"country_name":"陈巴尔虎旗", "country_code":"150725"},
+        {"country_name":"新巴尔虎左旗", "country_code":"150726"},
+        {"country_name":"新巴尔虎右旗", "country_code":"150727"},
+        {"country_name":"满洲里市", "country_code":"150781"},
+        {"country_name":"牙克石市", "country_code":"150782"},
+        {"country_name":"扎兰屯市", "country_code":"150783"},
+        {"country_name":"额尔古纳市", "country_code":"150784"},
+        {"country_name":"根河市", "country_code":"150785"}
+    ],"byne":[
+        {"country_name":"市辖区", "country_code":"150801"},
+        {"country_name":"临河区", "country_code":"150802"},
+        {"country_name":"五原县", "country_code":"150821"},
+        {"country_name":"磴口县", "country_code":"150822"},
+        {"country_name":"乌拉特前旗", "country_code":"150823"},
+        {"country_name":"乌拉特中旗", "country_code":"150824"},
+        {"country_name":"乌拉特后旗", "country_code":"150825"},
+        {"country_name":"杭锦后旗", "country_code":"150826"}
+    ],"wlcb":[
+        {"country_name":"市辖区", "country_code":"150901"},
+        {"country_name":"集宁区", "country_code":"150902"},
+        {"country_name":"卓资县", "country_code":"150921"},
+        {"country_name":"化德县", "country_code":"150922"},
+        {"country_name":"商都县", "country_code":"150923"},
+        {"country_name":"兴和县", "country_code":"150924"},
+        {"country_name":"凉城县", "country_code":"150925"},
+        {"country_name":"察哈尔右翼前旗", "country_code":"150926"},
+        {"country_name":"察哈尔右翼中旗", "country_code":"150927"},
+        {"country_name":"察哈尔右翼后旗", "country_code":"150928"},
+        {"country_name":"四子王旗", "country_code":"150929"},
+        {"country_name":"丰镇市", "country_code":"150981"}
+    ],"xam":[
+        {"country_name":"乌兰浩特市", "country_code":"152201"},
+        {"country_name":"阿尔山市", "country_code":"152202"},
+        {"country_name":"科尔沁右翼前旗", "country_code":"152221"},
+        {"country_name":"科尔沁右翼中旗", "country_code":"152222"},
+        {"country_name":"扎赉特旗", "country_code":"152223"},
+        {"country_name":"突泉县", "country_code":"152224"}
+    ],"xlglm":[
+        {"country_name":"二连浩特市", "country_code":"152501"},
+        {"country_name":"锡林浩特市", "country_code":"152502"},
+        {"country_name":"阿巴嘎旗", "country_code":"152522"},
+        {"country_name":"苏尼特左旗", "country_code":"152523"},
+        {"country_name":"苏尼特右旗", "country_code":"152524"},
+        {"country_name":"东乌珠穆沁旗", "country_code":"152525"},
+        {"country_name":"西乌珠穆沁旗", "country_code":"152526"},
+        {"country_name":"太仆寺旗", "country_code":"152527"},
+        {"country_name":"镶黄旗", "country_code":"152528"},
+        {"country_name":"正镶白旗", "country_code":"152529"},
+        {"country_name":"正蓝旗", "country_code":"152530"},
+        {"country_name":"多伦县", "country_code":"152531"},
+        {"country_name":"乌拉盖管委会", "country_code":"152571"}
+    ],"alsm":[
+        {"country_name":"阿拉善左旗", "country_code":"152921"},
+        {"country_name":"阿拉善右旗", "country_code":"152922"},
+        {"country_name":"额济纳旗", "country_code":"152923"},
+        {"country_name":"内蒙古阿拉善经济开发区", "country_code":"152971"}
+    ]
+}

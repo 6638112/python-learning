@@ -1,0 +1,177 @@
+{
+  "company": {
+    "properties": {
+      "gsmc": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },"frdb": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "dh": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "yx": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "wz": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "dz": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "zczb": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "clrq": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "jyzt": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text",
+        "fields": {
+          "raw": {
+            "type": "keyword"
+          }
+        }
+      },
+      "gszch": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "tyshxydm": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "zzjgdm": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "nsrsbh": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "gslx": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "yyqx": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "hy": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text",
+        "fields": {
+          "raw": {
+            "type": "keyword"
+          }
+        }
+      },
+      "nsrzz": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "hzrq": {
+        "type": "date",
+        "format": "yyyy-MM-dd"
+      },
+      "sjzb": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "rygm": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "cbrs": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "djjg": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "cym": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "ywmc": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "zcdz": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "jyfw": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "jj": {
+        "type": "text",
+        "analyzer": "ik_max_word",
+        "index_options": "offsets",
+        "copy_to": "full_text"
+      },
+      "full_text": {
+        "type": "text",
+        "analyzer": "ik_max_word"
+      }
+    }
+  }
+}

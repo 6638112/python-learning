@@ -1,0 +1,4331 @@
+{
+    "nodes": [
+        {
+            "category": "f",
+            "name": "北京国信新世纪科技有限公司内蒙古分公司",
+            "value": 1,
+            "label": "北京国信新世纪科技有限公司内蒙古分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京东方国信科技股份有限公司云南分公司",
+            "value": 1,
+            "label": "北京东方国信科技股份有限公司云南分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "香港中央结算有限公司",
+            "value": 1,
+            "label": "香港中央结算有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "袁兵",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "内蒙古东方国信科技有限公司",
+            "value": 1,
+            "label": "内蒙古东方国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "广西中科智信基金管理有限公司",
+            "value": 1,
+            "label": "广西中科智信基金管理有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "内蒙古新泰天逸金服信息科技有限公司",
+            "value": 1,
+            "label": "内蒙古新泰天逸金服信息科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "海芯华夏（北京）科技股份有限公司甘肃分公司",
+            "value": 1,
+            "label": "海芯华夏（北京）科技股份有限公司甘肃分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "中财大资产经营（北京）有限公司",
+            "value": 1,
+            "label": "中财大资产经营（北京）有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "郭忠敏",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京千禾驿家养老服务有限责任公司",
+            "value": 1,
+            "label": "北京千禾驿家养老服务有限责任公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "东方北斗科技（北京）有限公司",
+            "value": 1,
+            "label": "东方北斗科技（北京）有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "蔡永刚",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "广西宏杰盛投资管理有限公司",
+            "value": 1,
+            "label": "广西宏杰盛投资管理有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京炎黄新星网络科技有限公司浙江分公司",
+            "value": 1,
+            "label": "北京炎黄新星网络科技有限公司浙江分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "台州唯丰农业科技有限公司",
+            "value": 1,
+            "label": "台州唯丰农业科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "吉林省东方国信科技有限公司",
+            "value": 1,
+            "label": "吉林省东方国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京摩比万思科技有限公司",
+            "value": 1,
+            "label": "北京摩比万思科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王啸",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京北科亿力工程技术有限公司",
+            "value": 1,
+            "label": "北京北科亿力工程技术有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王瑞来",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "张继林",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "温得楷",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "天津优宏信贸易有限公司",
+            "value": 1,
+            "label": "天津优宏信贸易有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "刘招钦",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "茅建晖",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "新余仁邦翰威投资管理有限公司",
+            "value": 1,
+            "label": "新余仁邦翰威投资管理有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "夏刚",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "陈梦霞",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "王云峰",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "贵州东方国信科技有限公司",
+            "value": 1,
+            "label": "贵州东方国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京国信新世纪科技有限公司山西分公司",
+            "value": 1,
+            "label": "北京国信新世纪科技有限公司山西分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "新余高新区高鹏凯歌投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "新余高新区高鹏凯歌投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "白涛",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "田佳星",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "吉林省北斗导航位置服务有限公司",
+            "value": 1,
+            "label": "吉林省北斗导航位置服务有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "时文鸿",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京信诚东方投资咨询有限公司",
+            "value": 1,
+            "label": "北京信诚东方投资咨询有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京摩比万思投资中心（有限合伙）",
+            "value": 1,
+            "label": "北京摩比万思投资中心（有限合伙）\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "于冬雪",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "霍卫平",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "姜艳杰",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "孙向罡",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "东云睿连（武汉）计算技术有限公司",
+            "value": 1,
+            "label": "东云睿连（武汉）计算技术有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "彭岩",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "厦门图扑软件科技有限公司",
+            "value": 1,
+            "label": "厦门图扑软件科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "祝燕",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "包头北科亿力科技有限公司",
+            "value": 1,
+            "label": "包头北科亿力科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "石峰",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "青岛会视通信息技术有限公司",
+            "value": 1,
+            "label": "青岛会视通信息技术有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "蔚文飞",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "鲁晓丹",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "霍卫平",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "王首君",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "常志刚",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "雷鸣",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "新丝路文旅企业管理有限公司",
+            "value": 1,
+            "label": "新丝路文旅企业管理有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京千禾兴庞养老服务有限责任公司",
+            "value": 1,
+            "label": "北京千禾兴庞养老服务有限责任公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京千禾颐养家苑养老服务有限责任公司",
+            "value": 1,
+            "label": "北京千禾颐养家苑养老服务有限责任公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王迎",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "罗震",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "武汉乾云软件开发中心（有限合伙）",
+            "value": 1,
+            "label": "武汉乾云软件开发中心（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京永联万思科技有限公司",
+            "value": 1,
+            "label": "北京永联万思科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "郭金院",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "新余高新区高鹏培风投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "新余高新区高鹏培风投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "吴国庆",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京创造者软件系统有限公司",
+            "value": 1,
+            "label": "北京创造者软件系统有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "姜海青",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "宁波梅山保税港区御绣投资管理合伙企业（有限合伙）",
+            "value": 1,
+            "label": "宁波梅山保税港区御绣投资管理合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "广西柳工机械股份有限公司",
+            "value": 1,
+            "label": "广西柳工机械股份有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京仁邦翰威投资咨询有限公司",
+            "value": 1,
+            "label": "北京仁邦翰威投资咨询有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "孙艺豪",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "伍文浩",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京仁邦时代投资咨询有限公司",
+            "value": 1,
+            "label": "北京仁邦时代投资咨询有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "李春喜",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "江西风向标教育科技有限公司",
+            "value": 1,
+            "label": "江西风向标教育科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "陈斌",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "浙江国信新蓝图海洋科技有限公司",
+            "value": 1,
+            "label": "浙江国信新蓝图海洋科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "山东东方国信数据科技有限公司",
+            "value": 1,
+            "label": "山东东方国信数据科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "蔡璐",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "左小峰",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京千禾一家养老服务有限责任公司",
+            "value": 1,
+            "label": "北京千禾一家养老服务有限责任公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "宗文龙",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "孟鑫",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "石也",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "青海海芯华夏物联网科技有限公司",
+            "value": 1,
+            "label": "青海海芯华夏物联网科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "厦门炜麒敏投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "厦门炜麒敏投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "关山",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "霍守锋",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "李代玉",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "王德琴",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "郭忠敏",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "郭忠敏",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "施汉英",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "丁震",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "张辉",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "祁晓斌",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "山东海芯华夏互联农业科技有限公司",
+            "value": 1,
+            "label": "山东海芯华夏互联农业科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "内蒙古润和信息技术有限公司",
+            "value": 1,
+            "label": "内蒙古润和信息技术有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "海芯华夏（北京）科技股份有限公司",
+            "value": 1,
+            "label": "海芯华夏（北京）科技股份有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "韩玉晶",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "季文",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "布和",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "杜明放",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "陈戡",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "肖彦",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京国信新世纪科技有限公司河南分公司",
+            "value": 1,
+            "label": "北京国信新世纪科技有限公司河南分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "陈益玲",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京东方国信科技股份有限公司",
+            "value": 1,
+            "label": "北京东方国信科技股份有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "广州东方国信科技有限公司",
+            "value": 1,
+            "label": "广州东方国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "江苏东方国信工业互联网有限公司",
+            "value": 1,
+            "label": "江苏东方国信工业互联网有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "查礼",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京科瑞明软件有限公司",
+            "value": 1,
+            "label": "北京科瑞明软件有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京国信新世纪科技有限公司四川分公司",
+            "value": 1,
+            "label": "北京国信新世纪科技有限公司四川分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "新余仁邦时代投资管理有限公司",
+            "value": 1,
+            "label": "新余仁邦时代投资管理有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "内蒙古新泰国信科技有限公司",
+            "value": 1,
+            "label": "内蒙古新泰国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "成都东方国信科技有限公司",
+            "value": 1,
+            "label": "成都东方国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王卫民",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "张云鹏",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "林意炜",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "吴育群",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "安徽捷隆信息科技有限公司",
+            "value": 1,
+            "label": "安徽捷隆信息科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "刘路",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "郭敏",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "张晓杰",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "上海屹通信息科技发展有限公司",
+            "value": 1,
+            "label": "上海屹通信息科技发展有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "江苏共建智慧城市科技有限公司",
+            "value": 1,
+            "label": "江苏共建智慧城市科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "安徽屹通信息科技发展有限公司",
+            "value": 1,
+            "label": "安徽屹通信息科技发展有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京国信新世纪科技有限公司重庆万州分公司",
+            "value": 1,
+            "label": "北京国信新世纪科技有限公司重庆万州分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "吴立伟",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京国信信达科技有限公司",
+            "value": 1,
+            "label": "北京国信信达科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "大唐电信科技股份有限公司",
+            "value": 1,
+            "label": "大唐电信科技股份有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "福瑞泰克（杭州）智能系统有限公司",
+            "value": 1,
+            "label": "福瑞泰克（杭州）智能系统有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "肖宝玉",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "段慧平",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "谭晓雨",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "央信（北京）认证服务有限公司",
+            "value": 1,
+            "label": "央信（北京）认证服务有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "周群",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "付伟",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "付伟",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "杨怀江",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "邹文兵",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "敖志强",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "敖志强",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "支冬梅",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "深圳润天畅股权投资基金管理企业（有限合伙）",
+            "value": 1,
+            "label": "深圳润天畅股权投资基金管理企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "安徽语乐时光教育科技有限公司",
+            "value": 1,
+            "label": "安徽语乐时光教育科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王虎",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "上海屹通信息科技发展有限公司虹口分公司",
+            "value": 1,
+            "label": "上海屹通信息科技发展有限公司虹口分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "东方国信（中山）信息技术有限公司",
+            "value": 1,
+            "label": "东方国信（中山）信息技术有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "靳军",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "金正皓",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京顺诚彩色印刷有限公司",
+            "value": 1,
+            "label": "北京顺诚彩色印刷有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "臧志刚",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京航天长峰股份有限公司",
+            "value": 1,
+            "label": "北京航天长峰股份有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京炎黄新星网络科技有限公司山东分公司",
+            "value": 1,
+            "label": "北京炎黄新星网络科技有限公司山东分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "张建民",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "赵毅",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "张乐锋",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "苏和",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "张守丰",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "宁波梅山保税港区德昂投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "宁波梅山保税港区德昂投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京东华信通信息技术有限公司",
+            "value": 1,
+            "label": "北京东华信通信息技术有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "大连东方国信科技有限公司",
+            "value": 1,
+            "label": "大连东方国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京炎黄新星网络科技有限公司",
+            "value": 1,
+            "label": "北京炎黄新星网络科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王丹妮",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "大连优博信息技术有限公司",
+            "value": 1,
+            "label": "大连优博信息技术有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "东方国信（天津）科技有限公司",
+            "value": 1,
+            "label": "东方国信（天津）科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京国信会视科技有限公司",
+            "value": 1,
+            "label": "北京国信会视科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "上海屹通信息科技发展有限公司安徽分公司",
+            "value": 1,
+            "label": "上海屹通信息科技发展有限公司安徽分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "柴焰",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "李佳",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "刘彦斐",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京北科亿力科技有限公司武汉分公司",
+            "value": 1,
+            "label": "北京北科亿力科技有限公司武汉分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "何本强",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京区块节点科技有限公司",
+            "value": 1,
+            "label": "北京区块节点科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "左振连",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "敖志强",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "马长兴",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "宁波梅山保税港区瑞信高鹏投资有限公司",
+            "value": 1,
+            "label": "宁波梅山保税港区瑞信高鹏投资有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "吴永强",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "刘颖红",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "柳呈文",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "郭锋涛",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "祁明",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "林茂成",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "陈诚",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "管连平",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "广东东方国信数据科技有限公司",
+            "value": 1,
+            "label": "广东东方国信数据科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "林健",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "朱晓华",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "安徽东方国信科技有限公司",
+            "value": 1,
+            "label": "安徽东方国信科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王阳",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京摩比万思金融服务外包有限公司",
+            "value": 1,
+            "label": "北京摩比万思金融服务外包有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京德昂世纪科技发展有限公司",
+            "value": 1,
+            "label": "北京德昂世纪科技发展有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "摩比金服（天津）科技有限公司",
+            "value": 1,
+            "label": "摩比金服（天津）科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王卫民",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京国信新世纪科技有限公司广东分公司",
+            "value": 1,
+            "label": "北京国信新世纪科技有限公司广东分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "陈桂霞",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "王喜涛",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "李志刚",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "李志刚",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "佘友华",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "王海龙",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "山东国信信息技术有限公司",
+            "value": 1,
+            "label": "山东国信信息技术有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "萍乡利君创达咨询服务中心（有限合伙）",
+            "value": 1,
+            "label": "萍乡利君创达咨询服务中心（有限合伙）\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "李正宁",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "徐正伟",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "泛测（北京）环境科技有限公司",
+            "value": 1,
+            "label": "泛测（北京）环境科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "江苏东方国信数据科技有限公司",
+            "value": 1,
+            "label": "江苏东方国信数据科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "罗圣华",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "内蒙古海芯华夏互联农业科技有限公司",
+            "value": 1,
+            "label": "内蒙古海芯华夏互联农业科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "徐成明",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "罗贤飞",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "新余高鹏资本投资管理合伙企业（有限合伙）",
+            "value": 1,
+            "label": "新余高鹏资本投资管理合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "新余高新区国信一号投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "新余高新区国信一号投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京东方国信科技股份有限公司江西省分公司",
+            "value": 1,
+            "label": "北京东方国信科技股份有限公司江西省分公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "宁波梅山保税港区双平投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京炎黄新星网络科技有限公司福建分公司",
+            "value": 1,
+            "label": "北京炎黄新星网络科技有限公司福建分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "李俊峰",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "深圳市蓬力农业科技有限公司",
+            "value": 1,
+            "label": "深圳市蓬力农业科技有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京北科亿力科技有限公司",
+            "value": 1,
+            "label": "北京北科亿力科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王浩",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京汉桥科创科技有限公司",
+            "value": 1,
+            "label": "北京汉桥科创科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "罗越",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "王凤冽",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "甘琬",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "徐向阳",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "上海屹通信息科技发展有限公司合肥分公司",
+            "value": 1,
+            "label": "上海屹通信息科技发展有限公司合肥分公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "杜刚",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "陈志坤",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "杨阳",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "毛绣慧",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "舟山嘉睿投资合伙企业（有限合伙）",
+            "value": 1,
+            "label": "舟山嘉睿投资合伙企业（有限合伙）\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "胡一鸣",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "安徽东方国信城市智能与运营有限公司",
+            "value": 1,
+            "label": "安徽东方国信城市智能与运营有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京九合云腾投资中心（有限合伙）",
+            "value": 1,
+            "label": "北京九合云腾投资中心（有限合伙）\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京国信新世纪科技有限公司",
+            "value": 1,
+            "label": "北京国信新世纪科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "邢洪海",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京核心节点科技有限公司",
+            "value": 1,
+            "label": "北京核心节点科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "吴笃敏",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "北京格恩融智资本管理有限公司",
+            "value": 1,
+            "label": "北京格恩融智资本管理有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "北京普泽创智数据技术有限公司",
+            "value": 1,
+            "label": "北京普泽创智数据技术有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "王丽",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "刘玲",
+            "value": 1
+        },
+        {
+            "category": "s",
+            "name": "管连平",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "杭州阿启视科技有限公司",
+            "value": 1,
+            "label": "杭州阿启视科技有限公司\n（主要）"
+        },
+        {
+            "category": "s",
+            "name": "姜冬旭",
+            "value": 1
+        },
+        {
+            "category": "f",
+            "name": "华电国际电力股份有限公司",
+            "value": 1,
+            "label": "华电国际电力股份有限公司\n（主要）"
+        },
+        {
+            "category": "f",
+            "name": "广西中科智信投资管理中心（有限合伙）",
+            "value": 1,
+            "label": "广西中科智信投资管理中心（有限合伙）\n（主要）"
+        }
+    ],
+    "links": [
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "李代玉"
+        },
+        {
+            "name": "监事会主席",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "祁晓斌"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "查礼"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "左振连"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "温得楷"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "孙向罡"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "佘友华"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "张云鹏"
+        },
+        {
+            "name": "总经理",
+            "weight": 1,
+            "source": "北京创造者软件系统有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "蔚文飞"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "陈斌"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "张继林"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "王瑞来"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "成都东方国信科技有限公司",
+            "target": "王首君"
+        },
+        {
+            "name": "总经理",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "王凤冽"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "罗震"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "王海龙"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "敖志强"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "王海龙"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广西中科智信投资管理中心（有限合伙）",
+            "target": "广西宏杰盛投资管理有限公司"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京东华信通信息技术有限公司",
+            "target": "姜艳杰"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "摩比金服（天津）科技有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "target": "王卫民"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "鲁晓丹"
+        },
+        {
+            "name": "负责人",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司虹口分公司",
+            "target": "陈益玲"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "韩玉晶"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "刘彦斐"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "包头北科亿力科技有限公司",
+            "target": "北京北科亿力科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "吉林省北斗导航位置服务有限公司",
+            "target": "胡一鸣"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京创造者软件系统有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "时文鸿"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司四川分公司",
+            "target": "北京国信新世纪科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "罗越"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京德昂世纪科技发展有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "茅建晖"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区德昂投资合伙企业（有限合伙）",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "摩比金服（天津）科技有限公司",
+            "target": "北京摩比万思科技有限公司"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "周群"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "陈桂霞"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "杨怀江"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "王虎"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "东方北斗科技（北京）有限公司",
+            "target": "胡一鸣"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "王海龙"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "广州东方国信科技有限公司",
+            "target": "罗贤飞"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "内蒙古新泰天逸金服信息科技有限公司",
+            "target": "蔚文飞"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "刘招钦"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "内蒙古新泰天逸金服信息科技有限公司",
+            "target": "张继林"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "成都东方国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "青岛会视通信息技术有限公司",
+            "target": "北京国信会视科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "甘琬"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾兴庞养老服务有限责任公司",
+            "target": "北京千禾颐养家苑养老服务有限责任公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "柴焰"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "杜刚"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "大连优博信息技术有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "东方北斗科技（北京）有限公司",
+            "target": "吉林省北斗导航位置服务有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "刘玲"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "罗越"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "武汉乾云软件开发中心（有限合伙）",
+            "target": "鲁晓丹"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京永联万思科技有限公司",
+            "target": "北京摩比万思科技有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京千禾兴庞养老服务有限责任公司",
+            "target": "罗圣华"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "安徽东方国信城市智能与运营有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京科瑞明软件有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "执行董事兼经理",
+            "weight": 1,
+            "source": "吉林省北斗导航位置服务有限公司",
+            "target": "胡一鸣"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "吉林省北斗导航位置服务有限公司",
+            "target": "王丽"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "江苏共建智慧城市科技有限公司",
+            "target": "海芯华夏（北京）科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "徐正伟"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "山东海芯华夏互联农业科技有限公司",
+            "target": "海芯华夏（北京）科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "包头北科亿力科技有限公司",
+            "target": "霍守锋"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区高鹏培风投资合伙企业（有限合伙）",
+            "target": "金正皓"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "山东国信信息技术有限公司",
+            "target": "敖志强"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京科瑞明软件有限公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "田佳星"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "山东国信信息技术有限公司",
+            "target": "季文"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "彭岩"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "山东国信信息技术有限公司",
+            "target": "雷鸣"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "霍守锋"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京科瑞明软件有限公司",
+            "target": "邢洪海"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "邢洪海"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "敖志强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京德昂世纪科技发展有限公司",
+            "target": "宁波梅山保税港区德昂投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "刘颖红"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古东方国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "江西风向标教育科技有限公司",
+            "target": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "江苏东方国信工业互联网有限公司",
+            "target": "李春喜"
+        },
+        {
+            "name": "总经理",
+            "weight": 1,
+            "source": "江苏东方国信工业互联网有限公司",
+            "target": "夏刚"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "江苏东方国信工业互联网有限公司",
+            "target": "付伟"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "韩玉晶"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "target": "敖志强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "北京摩比万思投资中心（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "罗圣华"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "金正皓"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "东方北斗科技（北京）有限公司",
+            "target": "深圳润天畅股权投资基金管理企业（有限合伙）"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "刘颖红"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "谭晓雨"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "丁震"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "刘彦斐"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "邹文兵"
+        },
+        {
+            "name": "监事会主席",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "张乐锋"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "陈梦霞"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "罗圣华"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾驿家养老服务有限责任公司",
+            "target": "北京千禾颐养家苑养老服务有限责任公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "王凤冽"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京核心节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "摩比金服（天津）科技有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "执行董事兼总经理",
+            "weight": 1,
+            "source": "贵州东方国信科技有限公司",
+            "target": "王卫民"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "王卫民"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "郭金院"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "安徽东方国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京德昂世纪科技发展有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信一号投资合伙企业（有限合伙）",
+            "target": "彭岩"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "厦门炜麒敏投资合伙企业（有限合伙）",
+            "target": "吴笃敏"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "王卫民"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "姜冬旭"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "柳呈文"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "柳呈文"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "段慧平"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "王喜涛"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "厦门炜麒敏投资合伙企业（有限合伙）",
+            "target": "林意炜"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "金正皓"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "安徽捷隆信息科技有限公司",
+            "target": "上海屹通信息科技发展有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "支冬梅"
+        },
+        {
+            "name": "独立董事",
+            "weight": 1,
+            "source": "北京航天长峰股份有限公司",
+            "target": "宗文龙"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司江西省分公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "新余仁邦时代投资管理有限公司",
+            "target": "陈桂霞"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "山东国信信息技术有限公司",
+            "target": "敖志强"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "孙艺豪"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "徐正伟"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "央信（北京）认证服务有限公司",
+            "target": "孙艺豪"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司",
+            "target": "张辉"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高鹏资本投资管理合伙企业（有限合伙）",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "东方国信（中山）信息技术有限公司",
+            "target": "敖志强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "北京九合云腾投资中心（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "白涛"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "天津优宏信贸易有限公司",
+            "target": "李俊峰"
+        },
+        {
+            "name": "独立董事",
+            "weight": 1,
+            "source": "大唐电信科技股份有限公司",
+            "target": "宗文龙"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区高鹏培风投资合伙企业（有限合伙）",
+            "target": "新余高鹏资本投资管理合伙企业（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "宁波梅山保税港区御绣投资管理合伙企业（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "青海海芯华夏物联网科技有限公司",
+            "target": "海芯华夏（北京）科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司合肥分公司",
+            "target": "何本强"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司虹口分公司",
+            "target": "上海屹通信息科技发展有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "邹文兵"
+        },
+        {
+            "name": "其他人员",
+            "weight": 1,
+            "source": "厦门炜麒敏投资合伙企业（有限合伙）",
+            "target": "林意炜"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "target": "陈益玲"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "靳军"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京永联万思科技有限公司",
+            "target": "罗越"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京永联万思科技有限公司",
+            "target": "罗越"
+        },
+        {
+            "name": "其他人员",
+            "weight": 1,
+            "source": "厦门炜麒敏投资合伙企业（有限合伙）",
+            "target": "吴笃敏"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "福瑞泰克（杭州）智能系统有限公司",
+            "target": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司广东分公司",
+            "target": "北京国信新世纪科技有限公司"
+        },
+        {
+            "name": "负责人",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司合肥分公司",
+            "target": "何本强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京汉桥科创科技有限公司",
+            "target": "徐向阳"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区德昂投资合伙企业（有限合伙）",
+            "target": "管连平"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "祁晓斌"
+        },
+        {
+            "name": "执行董事兼总经理",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "柴焰"
+        },
+        {
+            "name": "执行董事经理",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司山东分公司",
+            "target": "北京炎黄新星网络科技有限公司"
+        },
+        {
+            "name": "董事长兼总经理",
+            "weight": 1,
+            "source": "安徽东方国信科技有限公司",
+            "target": "何本强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京德昂世纪科技发展有限公司",
+            "target": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司虹口分公司",
+            "target": "陈益玲"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京东华信通信息技术有限公司",
+            "target": "郭锋涛"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京核心节点科技有限公司",
+            "target": "陈诚"
+        },
+        {
+            "name": "董事兼总经理",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "林意炜"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "郭忠敏"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "敖志强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "北京核心节点科技有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "吴笃敏"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司",
+            "target": "柳呈文"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "贵州东方国信科技有限公司",
+            "target": "蔡永刚"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京普泽创智数据技术有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "安徽东方国信科技有限公司",
+            "target": "吴立伟"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "江苏东方国信工业互联网有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "安徽东方国信科技有限公司",
+            "target": "郭忠敏"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "萍乡利君创达咨询服务中心（有限合伙）",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "张守丰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "萍乡利君创达咨询服务中心（有限合伙）",
+            "target": "管连平"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "陈诚"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "大连优博信息技术有限公司",
+            "target": "王瑞来"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思金融服务外包有限公司",
+            "target": "北京摩比万思科技有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京北科亿力工程技术有限公司",
+            "target": "北京北科亿力科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京东华信通信息技术有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京核心节点科技有限公司",
+            "target": "陈诚"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广西中科智信投资管理中心（有限合伙）",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京核心节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京核心节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广西中科智信投资管理中心（有限合伙）",
+            "target": "广西柳工机械股份有限公司"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司广东分公司",
+            "target": "北京国信新世纪科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信一号投资合伙企业（有限合伙）",
+            "target": "王虎"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司武汉分公司",
+            "target": "北京北科亿力科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区德昂投资合伙企业（有限合伙）",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "执行董事兼总经理",
+            "weight": 1,
+            "source": "安徽捷隆信息科技有限公司",
+            "target": "何本强"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "白涛"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司云南分公司",
+            "target": "吴国庆"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "刘路"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "山东海芯华夏互联农业科技有限公司",
+            "target": "王海龙"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "马长兴"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "王喜涛"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "央信（北京）认证服务有限公司",
+            "target": "孙艺豪"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "天津优宏信贸易有限公司",
+            "target": "李俊峰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "柴焰"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "天津优宏信贸易有限公司",
+            "target": "李俊峰"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司内蒙古分公司",
+            "target": "北京国信新世纪科技有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "江苏东方国信数据科技有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "执行董事经理",
+            "weight": 1,
+            "source": "包头北科亿力科技有限公司",
+            "target": "霍守锋"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "内蒙古润和信息技术有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "祁晓斌"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "新丝路文旅企业管理有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "新余高鹏资本投资管理合伙企业（有限合伙）",
+            "target": "宁波梅山保税港区瑞信高鹏投资有限公司"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "大连优博信息技术有限公司",
+            "target": "王瑞来"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "广西中科智信投资管理中心（有限合伙）",
+            "target": "广西中科智信基金管理有限公司"
+        },
+        {
+            "name": "执行董事经理",
+            "weight": 1,
+            "source": "广东东方国信数据科技有限公司",
+            "target": "石峰"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "广东东方国信数据科技有限公司",
+            "target": "佘友华"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "广州东方国信科技有限公司",
+            "target": "关山"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京德昂世纪科技发展有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "执行董事兼总经理",
+            "weight": 1,
+            "source": "广州东方国信科技有限公司",
+            "target": "罗贤飞"
+        },
+        {
+            "name": "执行董事兼经理",
+            "weight": 1,
+            "source": "山东东方国信数据科技有限公司",
+            "target": "祁明"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "山东东方国信数据科技有限公司",
+            "target": "李志刚"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区高鹏凯歌投资合伙企业（有限合伙）",
+            "target": "新余高鹏资本投资管理合伙企业（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "布和"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "成都东方国信科技有限公司",
+            "target": "王首君"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "罗圣华"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "杜明放"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "成都东方国信科技有限公司",
+            "target": "姜海青"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司浙江分公司",
+            "target": "北京炎黄新星网络科技有限公司"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京摩比万思金融服务外包有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "张建民"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "天津优宏信贸易有限公司",
+            "target": "李俊峰"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京格恩融智资本管理有限公司",
+            "target": "李俊峰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "布和"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "舟山嘉睿投资合伙企业（有限合伙）",
+            "target": "管连平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "厦门炜麒敏投资合伙企业（有限合伙）",
+            "target": "林意炜"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "负责人",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司云南分公司",
+            "target": "吴国庆"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "内蒙古东方国信科技有限公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "石也"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京九合云腾投资中心（有限合伙）",
+            "target": "王啸"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "常志刚"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "贵州东方国信科技有限公司",
+            "target": "郭忠敏"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京顺诚彩色印刷有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京摩比万思金融服务外包有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "贵州东方国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "内蒙古东方国信科技有限公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "山东东方国信数据科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "东方国信（中山）信息技术有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "杭州阿启视科技有限公司"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "东方北斗科技（北京）有限公司",
+            "target": "胡一鸣"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广西中科智信基金管理有限公司",
+            "target": "肖彦"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "东方北斗科技（北京）有限公司",
+            "target": "王丽"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "东方北斗科技（北京）有限公司",
+            "target": "胡一鸣"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "李志刚"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "深圳市蓬力农业科技有限公司",
+            "target": "海芯华夏（北京）科技股份有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "郭忠敏"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "左振连"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "北京仁邦时代投资咨询有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "target": "管连平"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "吉林省东方国信科技有限公司",
+            "target": "王阳"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "吉林省东方国信科技有限公司",
+            "target": "陈桂霞"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "陈益玲"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京格恩融智资本管理有限公司",
+            "target": "李俊峰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "郭金院"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "内蒙古海芯华夏互联农业科技有限公司",
+            "target": "李代玉"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "林意炜"
+        },
+        {
+            "name": "总经理",
+            "weight": 1,
+            "source": "山东海芯华夏互联农业科技有限公司",
+            "target": "王海龙"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "山东海芯华夏互联农业科技有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "执行董事经理",
+            "weight": 1,
+            "source": "内蒙古海芯华夏互联农业科技有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "央信（北京）认证服务有限公司",
+            "target": "孙艺豪"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "北京仁邦翰威投资咨询有限公司"
+        },
+        {
+            "name": "其他人员",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "王德琴"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "林意炜"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "陈益玲"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "刘彦斐"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京汉桥科创科技有限公司",
+            "target": "徐成明"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "何本强"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "邢洪海"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区德昂投资合伙企业（有限合伙）",
+            "target": "新余高鹏资本投资管理合伙企业（有限合伙）"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "吴育群"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "肖宝玉"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "杨阳"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "张云鹏"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "臧志刚"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "佘友华"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "陈志坤"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京东华信通信息技术有限公司",
+            "target": "郭锋涛"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "李志刚"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "张建民"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "安徽屹通信息科技发展有限公司",
+            "target": "何本强"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "广西中科智信基金管理有限公司",
+            "target": "肖彦"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "李志刚"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司江西省分公司",
+            "target": "吴永强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广州东方国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾驿家养老服务有限责任公司",
+            "target": "靳军"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "林健"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京德昂世纪科技发展有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "东方国信（中山）信息技术有限公司",
+            "target": "左小峰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "江苏东方国信数据科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "执行董事经理",
+            "weight": 1,
+            "source": "东方国信（中山）信息技术有限公司",
+            "target": "敖志强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "罗震"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "安徽东方国信科技有限公司",
+            "target": "付伟"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "江苏共建智慧城市科技有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "东方国信（天津）科技有限公司",
+            "target": "彭岩"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京普泽创智数据技术有限公司",
+            "target": "王虎"
+        },
+        {
+            "name": "总经理",
+            "weight": 1,
+            "source": "江苏共建智慧城市科技有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京北科亿力工程技术有限公司",
+            "target": "霍守锋"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京核心节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "吉林省东方国信科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "吉林省北斗导航位置服务有限公司",
+            "target": "胡一鸣"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "内蒙古海芯华夏互联农业科技有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "泛测（北京）环境科技有限公司",
+            "target": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司山西分公司",
+            "target": "北京国信新世纪科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广东东方国信数据科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思投资中心（有限合伙）",
+            "target": "杜刚"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京东华信通信息技术有限公司",
+            "target": "郭锋涛"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "罗圣华"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京千禾兴庞养老服务有限责任公司",
+            "target": "祝燕"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京汉桥科创科技有限公司",
+            "target": "徐成明"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "周群"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京汉桥科创科技有限公司",
+            "target": "徐向阳"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京汉桥科创科技有限公司",
+            "target": "徐向阳"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "张守丰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "武汉乾云软件开发中心（有限合伙）"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "朱晓华"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京北科亿力科技有限公司",
+            "target": "霍守锋"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "王海龙"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "徐正伟"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "王丹妮"
+        },
+        {
+            "name": "总经理",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "林健"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "徐正伟"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "山东东方国信数据科技有限公司",
+            "target": "祁明"
+        },
+        {
+            "name": "执行董事兼总经理",
+            "weight": 1,
+            "source": "安徽屹通信息科技发展有限公司",
+            "target": "何本强"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司甘肃分公司",
+            "target": "海芯华夏（北京）科技股份有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "安徽屹通信息科技发展有限公司",
+            "target": "吴育群"
+        },
+        {
+            "name": "董事兼总经理",
+            "weight": 1,
+            "source": "江苏东方国信数据科技有限公司",
+            "target": "吴国庆"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "江苏东方国信数据科技有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京摩比万思投资中心（有限合伙）",
+            "target": "于冬雪"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "江苏东方国信数据科技有限公司",
+            "target": "张晓杰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区双平投资合伙企业（有限合伙）",
+            "target": "柳呈文"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "江苏东方国信数据科技有限公司",
+            "target": "佘友华"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "毛绣慧"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "时文鸿"
+        },
+        {
+            "name": "总经理",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "独立董事",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "宗文龙"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "宁波梅山保税港区德昂投资合伙企业（有限合伙）",
+            "target": "宁波梅山保税港区双平投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "赵毅"
+        },
+        {
+            "name": "监事会主席",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "常志刚"
+        },
+        {
+            "name": "独立董事",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "李俊峰"
+        },
+        {
+            "name": "独立董事",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "李正宁"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "王云峰"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "内蒙古新泰天逸金服信息科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思投资中心（有限合伙）",
+            "target": "罗越"
+        },
+        {
+            "name": "董事，总经理",
+            "weight": 1,
+            "source": "内蒙古东方国信科技有限公司",
+            "target": "李佳"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "伍文浩"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "内蒙古东方国信科技有限公司",
+            "target": "吴国庆"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广西中科智信投资管理中心（有限合伙）",
+            "target": "肖彦"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "左振连"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "武汉乾云软件开发中心（有限合伙）",
+            "target": "鲁晓丹"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京创造者软件系统有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "安徽东方国信城市智能与运营有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "内蒙古海芯华夏互联农业科技有限公司",
+            "target": "海芯华夏（北京）科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "吉林省东方国信科技有限公司",
+            "target": "陈桂霞"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦时代投资管理有限公司",
+            "target": "彭岩"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司重庆万州分公司",
+            "target": "北京国信新世纪科技有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司",
+            "target": "陈益玲"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司河南分公司",
+            "target": "北京国信新世纪科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "厦门图扑软件科技有限公司",
+            "target": "厦门炜麒敏投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司安徽分公司",
+            "target": "上海屹通信息科技发展有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "陈志坤"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思投资中心（有限合伙）",
+            "target": "于冬雪"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "付伟"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "谭晓雨"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "新余高鹏资本投资管理合伙企业（有限合伙）"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司",
+            "target": "姜海青"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司",
+            "target": "张辉"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京国信新世纪科技有限公司",
+            "target": "张辉"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦时代投资管理有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "安徽捷隆信息科技有限公司",
+            "target": "何本强"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京顺诚彩色印刷有限公司",
+            "target": "宁波梅山保税港区德昂投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "摩比金服（天津）科技有限公司",
+            "target": "于冬雪"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京创造者软件系统有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "刘颖红"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "刘彦斐"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "罗圣华"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "安徽屹通信息科技发展有限公司",
+            "target": "上海屹通信息科技发展有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "安徽东方国信城市智能与运营有限公司",
+            "target": "王浩"
+        },
+        {
+            "name": "监事会主席",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "杜明放"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "谭晓雨"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "陈梦霞"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "韩玉晶"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "香港中央结算有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京东方国信科技股份有限公司云南分公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "张乐锋"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京信诚东方投资咨询有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广西柳工机械股份有限公司",
+            "target": "香港中央结算有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "东方国信（天津）科技有限公司",
+            "target": "陈桂霞"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "东方国信（天津）科技有限公司",
+            "target": "彭岩"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "东方北斗科技（北京）有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "浙江国信新蓝图海洋科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京汉桥科创科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "施汉英"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "丁震"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "山东国信信息技术有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "郭敏"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "北京炎黄新星网络科技有限公司福建分公司",
+            "target": "北京炎黄新星网络科技有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "金正皓"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "内蒙古润和信息技术有限公司",
+            "target": "苏和"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "广东东方国信数据科技有限公司",
+            "target": "石峰"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "王迎"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京普泽创智数据技术有限公司",
+            "target": "孟鑫"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "赵毅"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京永联万思科技有限公司",
+            "target": "罗越"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "东云睿连（武汉）计算技术有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "经理",
+            "weight": 1,
+            "source": "北京普泽创智数据技术有限公司",
+            "target": "王虎"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "海芯华夏（北京）科技股份有限公司",
+            "target": "祁晓斌"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京普泽创智数据技术有限公司",
+            "target": "王虎"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "安徽东方国信城市智能与运营有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "董事长",
+            "weight": 1,
+            "source": "北京顺诚彩色印刷有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "大连优博信息技术有限公司",
+            "target": "王瑞来"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "东方国信（天津）科技有限公司",
+            "target": "北京东方国信科技股份有限公司"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "贵州东方国信科技有限公司",
+            "target": "王卫民"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "安徽语乐时光教育科技有限公司",
+            "target": "蔡璐"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京信诚东方投资咨询有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "安徽东方国信科技有限公司",
+            "target": "何本强"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京北科亿力工程技术有限公司",
+            "target": "霍守锋"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "陈梦霞"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "林茂成"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "祝燕"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "大连东方国信科技有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京创造者软件系统有限公司",
+            "target": "霍卫平"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余仁邦时代投资管理有限公司",
+            "target": "管连平"
+        },
+        {
+            "name": "执行董事",
+            "weight": 1,
+            "source": "北京千禾兴庞养老服务有限责任公司",
+            "target": "罗圣华"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "中财大资产经营（北京）有限公司",
+            "target": "宗文龙"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "广西中科智信投资管理中心（有限合伙）",
+            "target": "广西中科智信基金管理有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信信达科技有限公司",
+            "target": "央信（北京）认证服务有限公司"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "新余仁邦翰威投资管理有限公司",
+            "target": "彭岩"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京国信会视科技有限公司",
+            "target": "袁兵"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾颐养家苑养老服务有限责任公司",
+            "target": "陈戡"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "内蒙古东方国信科技有限公司",
+            "target": "付伟"
+        },
+        {
+            "name": "监事",
+            "weight": 1,
+            "source": "北京区块节点科技有限公司",
+            "target": "郭忠敏"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "北京汉桥科创科技有限公司",
+            "target": "徐向阳"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "新余高新区国信高鹏大数据投资合伙企业（有限合伙）",
+            "target": "新余高新区国信一号投资合伙企业（有限合伙）"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "华电国际电力股份有限公司",
+            "target": "宗文龙"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "江苏东方国信工业互联网有限公司",
+            "target": "李春喜"
+        },
+        {
+            "name": "法人",
+            "weight": 1,
+            "source": "内蒙古新泰国信科技有限公司",
+            "target": "陈斌"
+        },
+        {
+            "name": "分支机构",
+            "weight": 1,
+            "source": "上海屹通信息科技发展有限公司合肥分公司",
+            "target": "上海屹通信息科技发展有限公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "北京千禾一家养老服务有限责任公司",
+            "target": "北京千禾颐养家苑养老服务有限责任公司"
+        },
+        {
+            "name": "参股",
+            "weight": 1,
+            "source": "台州唯丰农业科技有限公司",
+            "target": "海芯华夏（北京）科技股份有限公司"
+        },
+        {
+            "name": "董事",
+            "weight": 1,
+            "source": "北京摩比万思科技有限公司",
+            "target": "王啸"
+        }
+    ],
+    "legend": [
+        "监事会主席",
+        "董事，总经理",
+        "执行董事经理",
+        "负责人",
+        "总经理",
+        "执行董事兼总经理",
+        "监事",
+        "分支机构",
+        "董事",
+        "独立董事",
+        "其他人员",
+        "经理",
+        "董事长",
+        "参股",
+        "董事兼总经理",
+        "法人",
+        "董事长兼总经理",
+        "执行董事兼经理",
+        "执行董事"
+    ]
+}
